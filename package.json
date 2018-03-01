@@ -1,0 +1,24 @@
+{
+  "name": "dw-admin-app",
+  "version": "1.0.0",
+  "description": "an admin-sys project generator",
+  "main": "index.js",
+  "bin": {
+    "dw-admin-app": "bin/dw-admin-app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adminlte",
+    "vue",
+    "express"
+  ],
+  "author": "cendawei",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.0.0",
+    "ora": "^1.2.0"
+  }
+}
