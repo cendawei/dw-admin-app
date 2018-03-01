@@ -1,6 +1,6 @@
 {
   "name": "dw-admin-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an admin-sys project generator",
   "main": "index.js",
   "bin": {
