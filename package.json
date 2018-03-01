@@ -20,5 +20,14 @@
     "commander": "^2.9.0",
     "download-git-repo": "^1.0.0",
     "ora": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cendawei/dw-admin-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cendawei/dw-admin-app/issues"
+  },
+  "homepage": "https://github.com/cendawei/dw-admin-app#readme"
 }
